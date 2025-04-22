@@ -1,0 +1,8 @@
+python-dotenv
+requests
+openai
+tiktoken
+azure-identity
+tenacity
+pydantic
+Pillow
